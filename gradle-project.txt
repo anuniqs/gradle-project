@@ -1,0 +1,35 @@
+
+https://gradle.org/releases/
+
+https://gradle.org/install/
+
+Configure your PATH environment variable to include the bin directory
+
+PS C:\Users\uniqs> gradle -v
+
+
+
+
+Project - https://docs.gradle.org/current/samples/sample_building_java_applications.html#run_the_init_task
+
+
+PS D:\GITRepos\cli-interactive-gradle-project> gradle init
+
+Enter selection (default: basic) [1..4] 2
+
+Enter selection (default: Java) [1..6] 3
+
+Enter selection (default: no - only one application project) [1..2] 2
+
+Enter selection (default: Groovy) [1..2] 1
+
+Generate build using new APIs and behavior (some features may change in the next minor release)? (default: no) [yes, no]no
+
+Project name (default: cli-interactive-gradle-project): cli-interactive-gradle-project
+
+Source package (default: cli.interactive.gradle.project): com.cliinteractivegradleproject
+
+
+
+
+
